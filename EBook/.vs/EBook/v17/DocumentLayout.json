@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yigit\\source\\repos\\EBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CAF84E-3264-4A80-A0C9-4A5DE7279BF4}|EBook\\EBook.csproj|c:\\users\\yigit\\source\\repos\\ebook\\ebook\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CAF84E-3264-4A80-A0C9-4A5DE7279BF4}|EBook\\EBook.csproj|solutionrelative:ebook\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F838421-1339-4CDD-AEF5-91CEACD728F8}|Services\\Services.csproj|c:\\users\\yigit\\source\\repos\\ebook\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F838421-1339-4CDD-AEF5-91CEACD728F8}|Services\\Services.csproj|solutionrelative:services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B178E9-4C72-46DF-B790-F9321991485B}|Entities\\Entities.csproj|c:\\users\\yigit\\source\\repos\\ebook\\entities\\datatransferobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B178E9-4C72-46DF-B790-F9321991485B}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Yigit\\source\\repos\\EBook\\EBook\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "EBook\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Yigit\\source\\repos\\EBook\\EBook\\wwwroot\\index.html",
+              "RelativeToolTip": "EBook\\wwwroot\\index.html",
+              "ViewState": "AQIAACABAAAAAAAAAAAAADIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-26T21:13:48.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\Yigit\\source\\repos\\EBook\\Services\\BookManager.cs",
+              "RelativeDocumentMoniker": "Services\\BookManager.cs",
+              "ToolTip": "C:\\Users\\Yigit\\source\\repos\\EBook\\Services\\BookManager.cs",
+              "RelativeToolTip": "Services\\BookManager.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T23:45:57.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Yigit\\source\\repos\\EBook\\Entities\\DataTransferObjects\\BookDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Yigit\\source\\repos\\EBook\\Entities\\DataTransferObjects\\BookDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T23:45:28.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
