@@ -18,7 +18,7 @@ The application consists of four layers: Entities, Presentation, Repositories, a
 
 ### Entitites ###
 The Entities layer is the layer that contains the application's data models. In this layer, there are classes corresponding to database tables and data transfer objects (DTOs). The application's data structures are defined and managed here.
-<img src="/EBook/.thumbnails/L-Entities.png" width="1920" height="758">
+![](/EBook/.thumbnails/L-Entities.png)
 
 ### Presentation
 The Presentation layer is the layer that manages the user interface or API endpoints presented to the user. In this layer, Controllers, Views, and API endpoints are found. Requests from the user are processed here, and appropriate responses are generated.
