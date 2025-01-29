@@ -49,52 +49,38 @@ The Services layer is the layer that manages business logic. This layer contains
 ### Update
 ![](/EBook/.thumbnails/EBookHTML-7.png)
 
-## How to Run the Application
+# How to Run the Application
 
 To run the EBook application locally, follow the steps below:
 
-1. **Clone the Repository**  
+#### 1. **Clone the Repository**  ####
 Clone the project repository to your local machine using Git:
 
-    ```bash
-    git clone <repository-url>
-    ```
+    git clone https://github.com/egeebozkurt/EBook.git
 
-2. **Install Dependencies**  
+#### 2. **Install Dependencies**  ####
 Make sure you have the required dependencies installed. This project uses **.NET Core** and **Entity Framework Core** for development. Run the following command to restore the required packages:
 
-    ```bash
     dotnet restore
-    ```
 
-3. **Set Up the Database**  
-Before running the application, set up the database. Follow these steps:
+#### 3. **Set Up the Database**  ####
 
-    - Ensure you have **SQL Server** or **SQL Server Express** installed.
-    - Modify the connection string in the `appsettings.json` file if necessary.
-    - Run the following command to apply migrations and create the database schema:
-
-    ```bash
     dotnet ef migrations add InitialCreate
     dotnet ef database update
-    ```
 
-    This will create the necessary database schema based on the models defined in the **Entities** layer.
-
-4. **Run the Application**  
+#### 4. **Run the Application**  ####
 After setting up the database, you can run the application using the following command:
 
-    ```bash
     dotnet run
-    ```
+    
 
-5. **Access the Application**  
+#### 5. **Access the Application**  ####
 Open a web browser and navigate to:
 
-    - **API**: `http://localhost:5027/swagger/index.html` (for Swagger UI)
-    - **Web Interface**: `http://localhost:5027/index.html` (for the customized HTML interface)
+   - **API**: `http://localhost:5027/swagger/index.html` (for Swagger UI)
+   - **Web Interface**: `http://localhost:5027/index.html` (for the customized HTML interface)
 
-6. **Testing CRUD Operations**  
+#### 6. **Testing CRUD Operations**  ####
 You can now use the Swagger UI to test the CRUD operations for the books (Create, Read, Update, Delete).
 
 
