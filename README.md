@@ -20,6 +20,8 @@ EBook is a web application that allows users to perform CRUD (Create, Read, Upda
 
 The application consists of four layers: Entities, Presentation, Repositories, and Services. These layers are integrated into the main project using a layered architecture. The interaction between the layers ensures the modularity and sustainability of the project.
 
+<br>
+
 ## Entitites ###
 The Entities layer is the layer that contains the application's data models. In this layer, there are classes corresponding to database tables and data transfer objects (DTOs). The application's data structures are defined and managed here.
 ![](/EBook/.thumbnails/L-Entities.png)
